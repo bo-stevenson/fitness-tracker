@@ -38,8 +38,9 @@ none
 
 ## Screenshots
 
-![Screenshot](assets/images/screenshot.png)
-![Screenshot](assets/images/screenshot-1.png)
+![Screenshot](./public/assets/images/screenshot.png)
+
+![Screenshot](./public/assets/images/screenshot-1.png)
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
